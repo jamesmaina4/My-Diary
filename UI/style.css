@@ -2,7 +2,7 @@ body{
   font: 15px/1.5 Georgia, Arial, Helvetica,sans-serif;
   padding:0;
   margin:0;
-  background: linear-gradient(180deg, #696969, #F0FFFF);
+  background: linear-gradient(180deg, #696969, green);
   /*background: url("./img/journal.jpeg")no-repeat;*/
   background-position: 0px 5px;
   background-size: cover;
